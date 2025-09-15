@@ -19,7 +19,7 @@ function Contact() {
 
   return (
     <div className="page-content">
-      <h2 className="contact-heading">Get in Touch</h2>
+      <h2 className=" glass contact-heading">Get in Touch</h2>
       <form className="glass contact-form" onSubmit={handleSubmit}>
         <input
           type="text"

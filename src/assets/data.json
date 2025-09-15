@@ -1,29 +1,18 @@
 {
   "personalProjects": [
     {
-      "name": "Portfolio Website",
-      "description": "A personal portfolio website built with React and Tailwind CSS to showcase skills, projects, and resume.",
-      "url": "https://myportfolio.com",
+      "name": "RJ Cars",
+      "description": "Developed a car rental website where users can book cars based on price, duration, location, and car type",
+      "url": "https://66d7d9995cc752201f4a2614--brilliant-genie-9cef18.netlify.app/",
       "image": "assets/portfolio.jpg"
     },
     {
-      "name": "Blog Platform",
-      "description": "A simple blogging platform where users can write, edit, and publish articles with a markdown editor.",
-      "url": "https://myblogapp.com",
-      "image": "assets/blog.jpg"
-    },
-    {
-      "name": "Task Manager",
-      "description": "A to-do list application with features like drag-and-drop tasks, reminders, and dark mode.",
-      "url": "https://taskmanager.com",
-      "image": "assets/taskmanager.jpg"
-    },
-    {
       "name": "Weather App",
-      "description": "A weather forecast app that shows real-time weather data and 7-day predictions using an API.",
-      "url": "https://weatherapp.com",
-      "image": "assets/weather.jpg"
+      "description": "Built a weather application that provides real-time weather conditions of any city using an external Weather API.",
+      "url": "https://66fa44cdd1a1c3e665161b08--tiny-fox-a71328.netlify.app/",
+      "image": "assets/blog.jpg"
     }
+   
   ],
   "professionalProjects": [
     {
@@ -46,3 +35,7 @@
     }
   ]
 }
+
+
+
+ 

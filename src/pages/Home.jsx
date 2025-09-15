@@ -35,7 +35,22 @@ function Home() {
       </div>
 
       <hr style={{backgroundColor:"#2e2f30ff", height:".5px"}} />
-
+ {/* Experience Row */}
+      <div className="skills-section">
+        <p className="skills-title">Experience</p>
+        <div className="skills-container">
+          <Link to="/experience" style={{ textDecoration: 'none' }}>
+            <div className="skill-box">
+              Keva | 1 Year
+            </div>
+          </Link>
+          <Link to="/experience" style={{ textDecoration: 'none' }}>
+            <div className="skill-box">
+              Modcub | 6 Months Internship
+            </div>
+          </Link>
+        </div>
+      </div>
       {/* Skills Section */}
       <div className="skills-section">
         <p className="skills-title">Skills</p>
@@ -50,20 +65,24 @@ function Home() {
 
       <hr style={{marginTop:"40px"}} />
 
+     
+
+      <hr style={{marginTop:"40px"}} />
+
       {/* Developed by Section */}
       <div className="footer-section">
         <p>Developed by <span className="name">Raman Jangir</span></p>
         <div className="social-links">
-          <Link to="https://www.instagram.com/" target="_blank">
+          <Link to="https://www.instagram.com/rj_3522/" target="_blank">
             <img src={insta} alt="Instagram" className="social-icon" />
           </Link>
-          <Link to="https://www.linkedin.com/" target="_blank">
+          <Link to="https://www.linkedin.com/in/ramanjangir/" target="_blank">
             <img src={linke} alt="LinkedIn" className="social-icon" />
           </Link>
-          <Link to="https://github.com/" target="_blank">
+          <Link to="https://github.com/Ramanniku" target="_blank">
             <img src={git} alt="GitHub" className="social-icon" />
           </Link>
-          <Link to="https://www.hackerrank.com/" target="_blank">
+          <Link to="https://www.hackerrank.com/profile/ramanjangir6243" target="_blank">
             <img src={hacker} alt="HackerRank" className="social-icon" />
           </Link>
         </div>

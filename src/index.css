@@ -37,13 +37,14 @@ body {
 
 /* HR Line */
 hr {
-  width: 60%; /* reduced width */
+  width: 80%;
   margin: 40px auto;
-  height: 1px;
+  height: 3px; /* even thicker */
   border: none;
-  background: linear-gradient(to right, transparent, rgba(255,255,255,0.5), transparent);
-  opacity: 0.7;
+  background-color: rgba(255, 255, 255, 0.5); /* more visible */
+   
 }
+
 
 /* Home Container */
 .home-container {
@@ -117,6 +118,7 @@ hr {
 }
 
 .skill-box {
+  
   padding: 10px;
   text-align: center;
   border: 1px solid rgba(255, 255, 255, 0.3);
@@ -442,12 +444,12 @@ hr {
   text-align: center;
   font-size: 1.8rem;
   color: #fff;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .contact-form {
-  width: 90%;                /* take most of the screen */
-  max-width: 900px;          /* allow bigger width */
+  width: 95%;                /* slightly more width */
+  max-width: 1100px;          /* allow bigger width */
   margin: 0 auto;
   padding: 40px;
   border-radius: 16px;
@@ -461,10 +463,10 @@ hr {
 
 .contact-form input,
 .contact-form textarea {
-  width: 100%;               /* stretch full width inside form */
+  width: 500px;               /* stretch full width inside form */
   padding: 14px 16px;
   border-radius: 10px;
-  border: 1px solid rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(65, 63, 63, 0.15);
   background: rgba(255, 255, 255, 0.08);
   color: #fff;
   font-size: 1rem;
@@ -485,11 +487,18 @@ hr {
   border-radius: 10px;
   border: none;
   cursor: pointer;
-  background: #00bcd4;
+  background: #043264;
   color: #fff;
   transition: background 0.3s ease;
 }
 
 .contact-form button:hover {
-  background: #00e5ff;
+  background: #02203f;
+}
+
+
+.experience-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px; /* space between rows */
 }
