@@ -12,7 +12,7 @@ function Experience() {
           <h3>Frontend Developer & Figma Web Designer</h3>
           <p><strong>Keva Company</strong> | 1 Year</p>
           <p>
-            Worked as a Frontend Developer and Figma Web Designer focusing on building responsive and interactive UI components. Utilized technologies like ReactJS, AngularJS, Redux Toolkit, Material UI, JavaScript, TypeScript, TailwindCSS, along with project management tools like Jira and Bitbucket.
+            Worked as a Frontend Developer   and Figma Web Designer focusing on building responsive and interactive UI components. Utilized technologies like ReactJS, AngularJS, Redux Toolkit, Material UI, JavaScript, TypeScript, TailwindCSS, along with project management tools like Jira and Bitbucket.
           </p>
         </div>
 
