@@ -3,7 +3,7 @@ import React from "react";
 function Experience() {
   return (
     <div className="page-content">
-      <h2 className="skills-title">Experience</h2>
+      <h2 className=" glass skills-title">Experience</h2>
       
       <div className="experience-container">
         

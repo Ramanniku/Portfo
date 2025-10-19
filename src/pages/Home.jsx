@@ -38,19 +38,21 @@ function Home() {
  {/* Experience Row */}
       <div className="skills-section">
         <p className="skills-title">Experience</p>
-        <div className="skills-container">
+        <div className="experience-container">
           <Link to="/experience" style={{ textDecoration: 'none' }}>
-            <div className="skill-box">
+            <div className="experience-box">
               Keva | 1 Year
             </div>
           </Link>
           <Link to="/experience" style={{ textDecoration: 'none' }}>
-            <div className="skill-box">
+            <div className="experience-box">
               Modcub | 6 Months Internship
             </div>
           </Link>
         </div>
       </div>
+      
+       <hr style={{marginTop:"40px"}} />
       {/* Skills Section */}
       <div className="skills-section">
         <p className="skills-title">Skills</p>
@@ -67,7 +69,7 @@ function Home() {
 
      
 
-      <hr style={{marginTop:"40px"}} />
+    
 
       {/* Developed by Section */}
       <div className="footer-section">
