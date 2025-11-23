@@ -1,0 +1,48 @@
+{
+  "personalProjects": [
+    {
+      "name": "Portfolio Website",
+      "description": "A personal portfolio website built with React and Tailwind CSS to showcase skills, projects, and resume.",
+      "url": "https://myportfolio.com",
+      "image": "assets/portfolio.jpg"
+    },
+    {
+      "name": "Blog Platform",
+      "description": "A simple blogging platform where users can write, edit, and publish articles with a markdown editor.",
+      "url": "https://myblogapp.com",
+      "image": "assets/blog.jpg"
+    },
+    {
+      "name": "Task Manager",
+      "description": "A to-do list application with features like drag-and-drop tasks, reminders, and dark mode.",
+      "url": "https://taskmanager.com",
+      "image": "assets/taskmanager.jpg"
+    },
+    {
+      "name": "Weather App",
+      "description": "A weather forecast app that shows real-time weather data and 7-day predictions using an API.",
+      "url": "https://weatherapp.com",
+      "image": "assets/weather.jpg"
+    }
+  ],
+  "professionalProjects": [
+    {
+      "name": "E-commerce Website",
+      "description": "A scalable e-commerce platform built with MERN stack including payment gateway and admin dashboard.",
+      "url": "https://shoponline.com",
+      "image": "assets/ecommerce.jpg"
+    },
+    {
+      "name": "Employee Management System",
+      "description": "A professional web app to manage employee data, attendance, and payroll with role-based access.",
+      "url": "https://ems.com",
+      "image": "assets/ems.jpg"
+    },
+    {
+      "name": "Learning Management System",
+      "description": "A platform for managing online courses, student enrollments, progress tracking, and certifications.",
+      "url": "https://lms.com",
+      "image": "assets/lms.jpg"
+    }
+  ]
+}
