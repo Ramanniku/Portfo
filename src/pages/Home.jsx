@@ -1,5 +1,5 @@
 import React from 'react';
-import image from "../assets/s.jpg";
+import image from "../assets/513330.jpg";
 import insta from "../assets/icons/instagram.png";
 import linke from "../assets/icons/linkedin.png";
 import hacker from "../assets/icons/hackerRank.jpeg";
