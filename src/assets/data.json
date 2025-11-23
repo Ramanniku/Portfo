@@ -1,6 +1,46 @@
 {
   "personalProjects": [
     {
+      "name": "RJ Cars",
+      "description": "Developed a car rental website where users can book cars based on price, duration, location, and car type",
+      "url": "https://66d7d9995cc752201f4a2614--brilliant-genie-9cef18.netlify.app/",
+      "image": "assets/portfolio.jpg"
+    },
+    {
+      "name": "Weather App",
+      "description": "Built a weather application that provides real-time weather conditions of any city using an external Weather API.",
+      "url": "https://66fa44cdd1a1c3e665161b08--tiny-fox-a71328.netlify.app/",
+      "image": "assets/blog.jpg"
+    }
+   
+  ],
+  "professionalProjects": [
+    {
+      "name": "E-commerce Website",
+      "description": "A scalable e-commerce platform built with MERN stack including payment gateway and admin dashboard.",
+      "url": "https://shoponline.com",
+      "image": "assets/ecommerce.jpg"
+    },
+    {
+      "name": "Employee Management System",
+      "description": "A professional web app to manage employee data, attendance, and payroll with role-based access.",
+      "url": "https://ems.com",
+      "image": "assets/ems.jpg"
+    },
+    {
+      "name": "Learning Management System",
+      "description": "A platform for managing online courses, student enrollments, progress tracking, and certifications.",
+      "url": "https://lms.com",
+      "image": "assets/lms.jpg"
+    }
+  ]
+}
+
+
+
+ {
+  "personalProjects": [
+    {
       "name": "Portfolio Website",
       "description": "A personal portfolio website built with React and Tailwind CSS to showcase skills, projects, and resume.",
       "url": "https://myportfolio.com",
